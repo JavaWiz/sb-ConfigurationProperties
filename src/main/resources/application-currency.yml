@@ -1,0 +1,26 @@
+currencies:
+  mappings:
+    USD:
+      - symbol: $
+        text: "US Dollar"
+        country: "UNITED STATES OF AMERICA"
+      - symbol: $
+        text: "US Dollar"
+        country: "AMERICAN SAMOA"
+    AUD:
+      - symbol: $
+        text: "Australia Dollar"
+        country: "AUSTRALIA"
+    MXN:
+      - symbol: $
+        text: "Mexican Peso"
+        country: "MEXICO"
+    COP:
+      - symbol: $
+        text: "Colombia Peso"
+        country: "COLOMBIA"
+    INR:
+      - symbol: ₹
+        text: "India Rupee"
+        country: "INDIA"
+
